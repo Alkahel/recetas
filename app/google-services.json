@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "346384770058",
+    "project_id": "app-recetas-kotlin",
+    "storage_bucket": "app-recetas-kotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346384770058:android:676ce3d363e9da0f8dabf3",
+        "android_client_info": {
+          "package_name": "com.example.recetascocina"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF-xp2BLNmnwxtWzHMcxKEaBfOjHfwQR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
